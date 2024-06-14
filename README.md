@@ -1,5 +1,5 @@
 👋 Hi, I’m @SIDDHESH
-Experience In -
+Experienced In -
 - HTML
 - CSS
 - JS
